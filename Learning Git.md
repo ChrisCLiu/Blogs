@@ -32,4 +32,4 @@ Add changes in current folder to the index of git.
 
 3. ```git commit```
 Commit the changes in the index of git.  
-When commit changes to github.com, comment is compulsory.  Use command like ```git commit -m "comments"```
+Comment is compulsory. Use command like ```git commit -m "comments"```
