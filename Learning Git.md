@@ -26,10 +26,9 @@ Create an empty git repository in current folder. Save file changes in the **./.
 
 2. ``` git add ```
 Add changes in current folder to the index of git.  
-   
-	<code>git add dir</code>  Add directory dir to the index of git;  
-	<code>git add fil</code>  Add file fil to the index of git;
-	<code>git add .</code> Add all files/directories in this folder to the index of git.  
+	* <code>git add dir</code>  Add directory dir to the index of git;  
+	* <code>git add fil</code>  Add file fil to the index of git;  
+	* <code>git add .</code> Add all files/directories in this folder to the index of git.  
 
 3. ```
 git commit
