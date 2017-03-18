@@ -26,7 +26,10 @@ Create an empty git repository in current folder. Save file changes in the **./.
 
 2. ```git add```
 Add changes in current folder to the index of git.
-    ```git add dir```   (Add directory dir to the index of git)
-    ```git add fil'''   (Add file fil to the index of git)
-    ```git add . ```    (Add all files/directories in this folder to the index of git)
+
+    ```git add dir```   (Add directory dir to the index of git);
+    
+    ```git add fil```   (Add file fil to the index of git);
+    
+    ```git add . ```    (Add all files/directories in this folder to the index of git).
 
