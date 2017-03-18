@@ -20,9 +20,14 @@ $ git config --global user.name "YourName"
 $ git config --global user.email address@example.com
 ```
 
-### Local Git operations 
+### Local Git operations ###
 1. ```git init```
 Create an empty git repository in current folder. Save file changes in the **./.git/** folder. 
 
-2. ``` git add```
-Add changes in current folder to the index of git,
+2. ```git add```
+Add changes in current folder to the index of git.
+
+```git add dir``` (Add directory dir to the index of git)
+
+
+
