@@ -1,9 +1,9 @@
-#Learning Git in Ubuntu#
+# Learning Git in Ubuntu #
 
-###What is Git?
+### What is Git? ###
 Git is a version control system for tracking changes in computer files and coordinating work on those files among multiple people. [Git-Wikipedia](https://en.wikipedia.org/wiki/Git)
 
-###Why Git?
+### Why Git? ###
 - Easily to use and corporate between multiple users
 - A better way to backup and track versions of files.
 - A good repository to maintain code works. 
