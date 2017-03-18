@@ -4,9 +4,9 @@
 Git is a version control system for tracking changes in computer files and coordinating work on those files among multiple people. [Git-Wikipedia](https://en.wikipedia.org/wiki/Git)
 
 ### Why Git? 
-- Easily to use and corporate between multiple users
-- A better way to backup and track versions of files.
-- A good repository to maintain code works. 
+* Easily to use and corporate between multiple users
+* A better way to backup and track versions of files.
+* A good repository to maintain code works. 
  
 ### Install Git in Ubuntu 16.04 
 
@@ -30,9 +30,10 @@ Add changes in current folder to the index of git.
 	* <code>git add fil</code>  Add file fil to the index of git;  
 	* <code>git add .</code> Add all files/directories in this folder to the index of git.  
 
-3. ```
-git commit
-```
+3. ```git commit```
 Commit the changes in the index of git.  
-    Comment is compulsory. Use command like ```git commit -m "comments"```
+	* ```git commit -m "comments"``` Comment is compulsory in Github.com. 
  
+ ### Server Git operations
+ 1. ```git push```
+ 	* ``` git push origin master``` Upload current branch to master branch on the server.
