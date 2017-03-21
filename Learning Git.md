@@ -35,6 +35,12 @@ Commit the changes in the index of git.
 * ```git commit -m "comments"``` Comment is compulsory in Github.com. 
  
  ## Server Git operations
- 1. ```git push```
+ 1. ```git remote add origin https://github.com/UserName/RepositoryName```
+ Connect the target repository on the server
+ 	
+ 2. ```git push```
  Upload branches to server.  
  	* ``` git push origin master``` Upload current branch to master branch on the server.
+ 3. ```git pull```
+ Download current branches on local computer
+ 	* ``` git pull origin master``` Download current branch as master on the local computer.
